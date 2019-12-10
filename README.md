@@ -1,6 +1,9 @@
 # PremierLeague
 EPL Data Set
 
+Final PBI Report: 
+https://msit.powerbi.com/view?r=eyJrIjoiZGQ5OGFmMzItMjM5MS00Mzg4LWExMDgtNGNjNzFhZDRiZWQ5IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9
+
 Architecture: 
 Data is passed in through two different webscrapes and a csv file. THe data is processed and transformed in Databricks and loaded into SQL Server where it is loaded into power bi and displayed. 
 
