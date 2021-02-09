@@ -15,7 +15,7 @@ Most of the logic was scraped from dashee87 GitHub blog that was published here.
 
 https://github.com/dashee87/blogScripts/blob/master/Jupyter/2017-06-04-predicting-football-results-with-statistical-modelling.ipynb. 
 
-There is also data that comes in from the player level and is aggregated in SQL. This aggregated data is then ranked based on team for comparison on specific metrics. 
+There is also data that comes in from the player level and is aggregated in SQL. This aggregation is then ranked based on team for comparison on specific metrics. 
 
 ## Disclaimer: 
-The purpose of the dashboard is to grow technical skillset with data science as well as build on Databricks and SQL knowledge. In no way should these results be used for gambling as these results are just displaying the output of a Poisson Distribution.
+The purpose of the dashboard is to grow technical skillset with data science as well as build on Databricks and SQL knowledge. In no way should these results be used for gambling.
